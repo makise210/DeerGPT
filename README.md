@@ -1,3 +1,6 @@
+
+<img width="1642" alt="Snipaste_2024-01-03_14-46-39" src="https://github.com/makise210/DeerGPT/assets/48115073/d52d0edc-a828-4db9-aff1-6082da8aeea4">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
